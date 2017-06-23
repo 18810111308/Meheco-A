@@ -1,0 +1,10 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+// import App from './App/App';
+import Rou from './Rou';
+import registerServiceWorker from './registerServiceWorker';
+import './index.css';
+import Mil from './Milestones';
+import Sta from './Staggerer';
+ReactDOM.render(<div><Sta/></div>, document.getElementById('root'));
+registerServiceWorker();
