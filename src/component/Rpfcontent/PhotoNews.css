@@ -1,0 +1,45 @@
+.PhotoNews{
+    width: 1000px;
+    padding-top: 39px;
+    margin: 0 auto;
+    padding-bottom: 100px;
+}
+.PhotoNews h4{
+    font-size: 14px;
+    color: #484848;
+    font-weight: normal;
+}
+.PhotoNews .titOne,.titTwo{
+    text-align: center;
+    font-size: 26px;
+    color: black;
+    font-weight: bold;
+    margin: 0;
+    font-weight: 400;
+}
+.PhotoNews .titOne{
+    margin-top: 52px;
+    margin-bottom: 10px;
+}
+.PhotoNews .rpfImg{
+    text-align: center;
+    width: 100%;
+    height: 251px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.PhotoNews .rpfImg img{
+    display: block;
+    margin: 0 auto;
+}
+.PhotoNews .describe{
+    font-size: 14px;
+    color: #848484;
+    line-height: 24px;
+    font-family: 微软雅黑;
+}
+.rpfspan{
+    font-size: 13px;
+    float: right;
+    color: #696969;
+}
